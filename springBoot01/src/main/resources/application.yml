@@ -1,0 +1,15 @@
+name: haodong
+
+student:
+  name: tomm
+  age: 22
+
+person: {name: jack,age: 33}
+
+students:
+  - name: aaa
+    age: 11
+  - name: bbb
+    age: 22
+
+persons: [{name: ccc,age: 44},{name: ddd,age: 55}]
